@@ -1,18 +1,1 @@
-<mxfile host="65bd71144e">
-    <diagram name="聚合" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-        <mxGraphModel dx="871" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-            </root>
-        </mxGraphModel>
-    </diagram>
-    <diagram id="y57ESgfZo5Q0gPeMH4wc" name="組合">
-        <mxGraphModel dx="871" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-            <root>
-                <mxCell id="CHDtnuDMMGn6DQg8g9th-0"/>
-                <mxCell id="CHDtnuDMMGn6DQg8g9th-1" parent="CHDtnuDMMGn6DQg8g9th-0"/>
-            </root>
-        </mxGraphModel>
-    </diagram>
-</mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-02T06:33:39.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.59" version="18.2.0" etag="wvy1oGx6vdQaNj1DB4BB" type="device" pages="2"><diagram name="聚合" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">7VfLbqMwFP0aL2cEGAhZ5jmjmVaqRKWZLl1wwarBkXESyNePDZdXaNU2m3akrOJ77sPX9xzHCcKrrPwhyS69FTHlyLHiEuE1chwbB47+MEjVIDPfbYBEshiCeiBkJwqgBeiexbQYBSohuGK7MRiJPKeRGmFESnEchz0JPt51RxI6AcKI8Cn6h8UqbdDAmfX4T8qStN3Z9ueN55FEz4kU+xz2y0VOG09G2jJwxiIlsTgOILxBeCWFUM0qK1eUm7G2E2vytq94u5YlzdV7Eu69543rsOzkhYfkV/Y79NbHb1DlQPgeRoE2cxRgtAjMYu6jwFpA/6pqx1UcWcaJPilePolcheCxtB2ljMc3pBJ701Sh9Hxaa5kKyU46nnDtsjWg3VKBGhzfVGOcrwQXUgP1KIdJoSkG20ha6LS79vD2GXRLylHgDSlU26DgnOwK9li3bBIzIhOWL4VSIoMgmAqVipavjtvuSNT3goqMKlnpEEhwMPAOV6LT+rEXmO0Clg7E5cFdIqDppCvdk6sXwO8HuHZe4NpDgYcWq3qxRcvgSvUFVOMzqrH32VTjd1zr5ZXrC7h23a92rd0p1+fE0jxemFdSWzEjmcjj+5TleiDasWVmu3o82mpZcw1FKmsZrV84Gndxuu+/xvjueK39MHSuy5FVtVbJVJPngfUAG5h1n2SMasQZjScP+Blj+sBiLyP69mOn1ZlQ9dYX5VQBQ4Z9YFhSThQ7jHt7iWIodyeY7nqgJnekJndmjUs0Z4Ks4eN+Vsi33ijUHHpSqFZcd8bLReh9pghn/5MI8VWEHxehNvsfyk14/0cEb/4B</diagram><diagram id="y57ESgfZo5Q0gPeMH4wc" name="組合">vZIxD8IgEIV/DaOJBa26SqsuHYyDMykIJJRrEGP112stVYmD0UQTwvDlHe/eHYjQqlk6VqsCuDAID3mDSIYwnk6S692CUwdG41kHpNO8Q8kDbPRZBDgM9KC52EdCD2C8rmNYgrWi9BFjzsExlu3AxK41k+IFbEpmXulWc69CLDx58JXQUvXOSRryVawXhyR7xTgcnxDJEU4RJg1DZI5a9u4Q6gD8F4XxI1VDhWm31G+ArjJvD1lRLG2areVUzrwadG0v/uR2n7MT1v+kK0KvdR/M76aPvjXJLw==</diagram></mxfile>
